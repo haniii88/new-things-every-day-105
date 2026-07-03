@@ -1,4 +1,4 @@
-/* New Things Every Day — Day 105 */
+/* New Things Every Day — Da 105 */
 /* Filters completed tasks and displays a summary */
 
 function dailyLog105() {
